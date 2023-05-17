@@ -1,0 +1,5 @@
+name: PlayerInactivity
+version: '${project.version}'
+main: me.wyoslovescoffee.playerinactivity.PlayerInactivity
+api-version: 1.19
+authors: [ WyoLovesCoffee ]
